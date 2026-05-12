@@ -10,12 +10,15 @@ I am a Technical Operations Specialist bridging the gap between high-stakes hosp
 - **Design:** Adobe Photoshop, InDesign, Illustrator
 - **Systems:** Toast POS, Aloha, MICROS, Network Troubleshooting
 - **Education:** B.S. Computer Science @ Western Governors University (Exp. 2027), B.S. Management @ Russian State Agrarian Correspondence University (RSACU)
+
+**### 🛠️ Technical Stack
+
 ![Python](https://shields.io)
 ![Java](https://shields.io)
 ![SQL](https://shields.io)
-![Adobe Photoshop](https://shields.io)
-![Adobe InDesign](https://shields.io)
-![Adobe Illustrator](https://shields.io)
+![Photoshop](https://shields.io)
+![InDesign](https://shields.io)
+![Illustrator](https://shields.io)
 
 
 ### 🔭 Currently Working On
