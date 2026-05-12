@@ -13,7 +13,8 @@ I am a Technical Operations Specialist bridging the gap between high-stakes hosp
 
 **### 🛠️ Technical Stack
 
-![Python](https://shields.io)
+!<img src="https://shields.io" alt="Python Badge" /> 
+
 ![Java](https://shields.io)
 ![SQL](https://shields.io)
 ![Photoshop](https://shields.io)
