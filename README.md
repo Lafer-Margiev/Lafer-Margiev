@@ -12,7 +12,10 @@ I am a Technical Operations Specialist bridging the gap between high-stakes hosp
 - **Education:** B.S. Computer Science @ Western Governors University (Exp. 2027), B.S. Management @ Russian State Agrarian Correspondence University (RSACU)
 ![Python](https://shields.io)
 ![Java](https://shields.io)
+![SQL](https://shields.io)
 ![Adobe Photoshop](https://shields.io)
+![Adobe InDesign](https://shields.io)
+![Adobe Illustrator](https://shields.io)
 
 
 ### 🔭 Currently Working On
